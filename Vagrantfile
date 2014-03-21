@@ -5,9 +5,9 @@
 VAGRANTFILE_API_VERSION = "2"
 
 Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
-  config.vm.box = "bypronto"
+  config.vm.box = "vagrantpress"
   config.vm.host_name = "vagrant"
-  config.vm.network :private_network, ip: "33.33.33.33"
+  config.vm.network :private_network, ip: "123.123.12.1"
 
   config.vm.provider :virtualbox do |vb|
     vb.customize ["modifyvm", :id, "--memory", "1024"]
