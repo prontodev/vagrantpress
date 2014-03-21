@@ -1,0 +1,52 @@
+10
+
+dir
+1337
+https://unit-tests.svn.wordpress.org/trunk/data/themedir1
+https://unit-tests.svn.wordpress.org
+
+
+
+2012-09-03T23:42:29.721830Z
+1004
+nacin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4a5a2adb-35eb-4268-9a1b-fe04a4134342
+
+broken-theme
+dir
+
+theme1
+dir
+
+default
+dir
+
+page-templates
+dir
+
+subdir
+dir
+
+stylesheetonly
+dir
+
+sandbox
+dir
+
+theme1-dupe
+dir
+

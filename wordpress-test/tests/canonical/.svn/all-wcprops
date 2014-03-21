@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/1297/trunk/tests/canonical
+END
+noRewrite.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1297/trunk/tests/canonical/noRewrite.php
+END
+permalinkFormats.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1148/trunk/tests/canonical/permalinkFormats.php
+END
+pageOnFront.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/904/trunk/tests/canonical/pageOnFront.php
+END
+customRules.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/904/trunk/tests/canonical/customRules.php
+END

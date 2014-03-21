@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/!svn/ver/1199/trunk/tests/export
+END
+class-wp-export-query.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1198/trunk/tests/export/class-wp-export-query.php
+END
+writers.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1199/trunk/tests/export/writers.php
+END
+functions.export.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1199/trunk/tests/export/functions.export.php
+END

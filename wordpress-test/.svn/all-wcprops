@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 20
+/!svn/ver/1332/trunk
+END
+phpunit.xml.dist
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/1228/trunk/phpunit.xml.dist
+END
+wp-mail-real-test.php
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/751/trunk/wp-mail-real-test.php
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/!svn/ver/900/trunk/README.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/!svn/ver/959/trunk/build.xml
+END
+multisite.xml
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/!svn/ver/1190/trunk/multisite.xml
+END
+wp-tests-config-sample.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1166/trunk/wp-tests-config-sample.php
+END

@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/1296/trunk/tests/formatting
+END
+CleanPre.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/909/trunk/tests/formatting/CleanPre.php
+END
+UrlEncodedToEntities.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/915/trunk/tests/formatting/UrlEncodedToEntities.php
+END
+EscUrl.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1296/trunk/tests/formatting/EscUrl.php
+END
+RemoveAccents.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1180/trunk/tests/formatting/RemoveAccents.php
+END
+SanitizeTextField.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/909/trunk/tests/formatting/SanitizeTextField.php
+END
+HtmlExcerpt.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1282/trunk/tests/formatting/HtmlExcerpt.php
+END
+SanitizeMimeType.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/909/trunk/tests/formatting/SanitizeMimeType.php
+END
+WPTrimWords.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/909/trunk/tests/formatting/WPTrimWords.php
+END
+ConvertChars.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/909/trunk/tests/formatting/ConvertChars.php
+END
+SanitizeTrackbackUrls.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/1006/trunk/tests/formatting/SanitizeTrackbackUrls.php
+END
+balanceTags.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1019/trunk/tests/formatting/balanceTags.php
+END
+Smilies.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/909/trunk/tests/formatting/Smilies.php
+END
+Slashit.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1269/trunk/tests/formatting/Slashit.php
+END
+WpRichEditPre.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1243/trunk/tests/formatting/WpRichEditPre.php
+END
+WPTexturize.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1185/trunk/tests/formatting/WPTexturize.php
+END
+ent2ncr.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/915/trunk/tests/formatting/ent2ncr.php
+END
+MapDeep.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1112/trunk/tests/formatting/MapDeep.php
+END
+date.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1234/trunk/tests/formatting/date.php
+END
+StripSlashesDeep.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/909/trunk/tests/formatting/StripSlashesDeep.php
+END
+Utf8UriEncode.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/915/trunk/tests/formatting/Utf8UriEncode.php
+END
+SanitizeTitle.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/909/trunk/tests/formatting/SanitizeTitle.php
+END
+SanitizePost.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1224/trunk/tests/formatting/SanitizePost.php
+END
+JSEscape.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/909/trunk/tests/formatting/JSEscape.php
+END
+isoDescrambler.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/915/trunk/tests/formatting/isoDescrambler.php
+END
+EscHtml.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/909/trunk/tests/formatting/EscHtml.php
+END
+redirect.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/909/trunk/tests/formatting/redirect.php
+END
+LikeEscape.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/909/trunk/tests/formatting/LikeEscape.php
+END
+EscAttr.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/909/trunk/tests/formatting/EscAttr.php
+END
+MakeClickable.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/909/trunk/tests/formatting/MakeClickable.php
+END
+WPSpecialchars.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/909/trunk/tests/formatting/WPSpecialchars.php
+END
+EscTextarea.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1243/trunk/tests/formatting/EscTextarea.php
+END
+SanitizeTitleWithDashes.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/1122/trunk/tests/formatting/SanitizeTitleWithDashes.php
+END
+SanitizeOrderby.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/909/trunk/tests/formatting/SanitizeOrderby.php
+END
+Zeroise.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/909/trunk/tests/formatting/Zeroise.php
+END
+wp_basename.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1088/trunk/tests/formatting/wp_basename.php
+END
+SeemsUtf8.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/915/trunk/tests/formatting/SeemsUtf8.php
+END
+IsEmail.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/909/trunk/tests/formatting/IsEmail.php
+END
+SanitizeUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/909/trunk/tests/formatting/SanitizeUser.php
+END
+SanitizeFileName.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/909/trunk/tests/formatting/SanitizeFileName.php
+END
+Autop.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/909/trunk/tests/formatting/Autop.php
+END
+WpHtmlEditPre.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1243/trunk/tests/formatting/WpHtmlEditPre.php
+END

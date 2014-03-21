@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/1234/trunk/tests/functions
+END
+deprecated.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1161/trunk/tests/functions/deprecated.php
+END
+listFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/951/trunk/tests/functions/listFilter.php
+END

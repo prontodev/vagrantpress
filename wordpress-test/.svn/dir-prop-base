@@ -1,0 +1,13 @@
+K 13
+svn:externals
+V 47
+wordpress https://core.svn.wordpress.org/trunk
+
+K 10
+svn:ignore
+V 38
+build
+wp-tests-config.php
+phpunit.xml
+
+END
