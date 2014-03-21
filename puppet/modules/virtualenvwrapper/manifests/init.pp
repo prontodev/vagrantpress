@@ -1,8 +1,8 @@
-class Virtualenvwrapper {
+class virtualenvwrapper {
 
     exec { "install pip":
         command => "easy_install pip",
-        require => Class["Python"]
+        require => Class["python"]
     }
 
     exec { "upgrade setuptools":

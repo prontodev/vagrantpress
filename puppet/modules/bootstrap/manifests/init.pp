@@ -1,4 +1,4 @@
-class Bootstrap {
+class bootstrap {
     exec { "apt-get update":
         command => "apt-get update",
         timeout => 0
