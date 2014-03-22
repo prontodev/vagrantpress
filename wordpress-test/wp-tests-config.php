@@ -21,7 +21,7 @@ define( 'ABSPATH', dirname( __FILE__ ) . '/bypronto/' );
 // These tests will DROP ALL TABLES in the database with the prefix named below.
 // DO NOT use a production database or one that is shared with something else.
 
-define( 'DB_NAME', 'wordpress-test' );
+define( 'DB_NAME', 'bypronto_test' );
 define( 'DB_USER', 'root' );
 define( 'DB_PASSWORD', '' );
 define( 'DB_HOST', 'localhost' );
