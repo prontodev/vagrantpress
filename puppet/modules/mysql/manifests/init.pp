@@ -1,6 +1,5 @@
 class mysql {
-    include mysql::install
-    #, mysql::service, mysml::setupdb
+    include mysql::install, mysql::service, mysql::setupdb
 }
 
 class mysql::install {
@@ -19,25 +18,16 @@ class mysql::service {
     }
 }
 
-#class Mysql::setupdb {
-#    exec { "createuser":
-#        command => "createuser -s -w prontoworld",
-#        user => "postgres",
-#        unless => "psql -c \"SELECT usename FROM pg_user WHERE usename = 'prontoworld';\" | grep prontoworld",
-#        require => Class["Mysql::install"],
-#    }
-#
-#    exec { "changepassword":
-#        command => "psql -c \"ALTER USER prontoworld WITH PASSWORD 'Pr0nt0W0rld';\"",
-#        user => "postgres",
-#        unless => "psql -c \"SELECT usename FROM pg_user WHERE usename = 'prontoworld';\" | grep prontoworld",
-#        require => Class["createuser"],
-#    }
-#
-#    exec { "createdb":
-#        command => "createdb -O prontoworld prontoworld",
-#        user => "postgres",
-#        unless => "psql -c \"SELECT datname FROM pg_database WHERE datname = 'prontoworld';\" | grep prontoworld",
-#        require => Exec["createuser"],
-#    }
-#}
+class mysql::setupdb {
+    exec { "createdb-dev":
+        unless => "mysql -u root bypronto",
+        command => "mysql -u root -e \"create database bypronto;\"",
+        require => Class["mysql::service"],
+    }
+
+    exec { "createdb-test":
+        unless => "mysql -u root bypronto_test",
+        command => "mysql -u root -e \"create database bypronto_test;\"",
+        require => Class["mysql::service"],
+    }
+}
