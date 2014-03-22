@@ -1,7 +1,8 @@
 node 'vagrant' {
     include bootstrap
-#    include python
+    include python
     include mysql
-#    include virtualenvwrapper
-#    include nginx
+    include virtualenvwrapper
+    include nginx
+    include php
 }
