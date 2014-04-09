@@ -1,80 +1,0 @@
-10
-
-dir
-1337
-https://unit-tests.svn.wordpress.org/trunk/data
-https://unit-tests.svn.wordpress.org
-
-
-
-2013-07-29T02:09:31.755684Z
-1329
-dd32
-has-props
-
-
-svn:externals
-
-
-
-
-
-
-
-
-
-
-4a5a2adb-35eb-4268-9a1b-fe04a4134342
-
-export
-dir
-
-plugins
-dir
-
-themedir1
-dir
-
-images
-dir
-
-formatting
-dir
-
-pomo
-dir
-
-WPHTTP-testcase-redirection-script.php
-file
-
-
-
-
-2014-03-21T08:33:08.000000Z
-0693576efb7f2f714c8919c6b96ac193
-2013-07-29T02:09:31.755684Z
-1329
-dd32
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2924
-
