@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/27258/trunk/tests/phpunit/tests/comment
+END
+getCommentsPagesCount.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/27055/trunk/tests/phpunit/tests/comment/getCommentsPagesCount.php
+END
+slashes.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/25365/trunk/tests/phpunit/tests/comment/slashes.php
+END
+dateQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/25165/trunk/tests/phpunit/tests/comment/dateQuery.php
+END
+query.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/27258/trunk/tests/phpunit/tests/comment/query.php
+END

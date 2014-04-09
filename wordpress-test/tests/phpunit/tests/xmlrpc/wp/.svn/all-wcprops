@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/27554/trunk/tests/phpunit/tests/xmlrpc/wp
+END
+deleteTerm.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/25165/trunk/tests/phpunit/tests/xmlrpc/wp/deleteTerm.php
+END
+getTerms.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/25165/trunk/tests/phpunit/tests/xmlrpc/wp/getTerms.php
+END
+getOptions.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/25165/trunk/tests/phpunit/tests/xmlrpc/wp/getOptions.php
+END
+editPost.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/27554/trunk/tests/phpunit/tests/xmlrpc/wp/editPost.php
+END
+getMediaItem.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/25165/trunk/tests/phpunit/tests/xmlrpc/wp/getMediaItem.php
+END
+getPages.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/25165/trunk/tests/phpunit/tests/xmlrpc/wp/getPages.php
+END
+newPost.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/25165/trunk/tests/phpunit/tests/xmlrpc/wp/newPost.php
+END
+getProfile.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/25394/trunk/tests/phpunit/tests/xmlrpc/wp/getProfile.php
+END
+getUsers.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/25165/trunk/tests/phpunit/tests/xmlrpc/wp/getUsers.php
+END
+getComment.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/25165/trunk/tests/phpunit/tests/xmlrpc/wp/getComment.php
+END
+restoreRevision.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/25165/trunk/tests/phpunit/tests/xmlrpc/wp/restoreRevision.php
+END
+editProfile.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/25165/trunk/tests/phpunit/tests/xmlrpc/wp/editProfile.php
+END
+getTerm.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/25165/trunk/tests/phpunit/tests/xmlrpc/wp/getTerm.php
+END
+setOptions.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/27551/trunk/tests/phpunit/tests/xmlrpc/wp/setOptions.php
+END
+getPosts.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/26087/trunk/tests/phpunit/tests/xmlrpc/wp/getPosts.php
+END
+getPageList.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/25165/trunk/tests/phpunit/tests/xmlrpc/wp/getPageList.php
+END
+deletePost.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/25165/trunk/tests/phpunit/tests/xmlrpc/wp/deletePost.php
+END
+getPostTypes.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/25165/trunk/tests/phpunit/tests/xmlrpc/wp/getPostTypes.php
+END
+getPage.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/25165/trunk/tests/phpunit/tests/xmlrpc/wp/getPage.php
+END
+editTerm.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/25165/trunk/tests/phpunit/tests/xmlrpc/wp/editTerm.php
+END
+getTaxonomy.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/25165/trunk/tests/phpunit/tests/xmlrpc/wp/getTaxonomy.php
+END
+getUser.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/25394/trunk/tests/phpunit/tests/xmlrpc/wp/getUser.php
+END
+getRevisions.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/25165/trunk/tests/phpunit/tests/xmlrpc/wp/getRevisions.php
+END
+newTerm.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/25165/trunk/tests/phpunit/tests/xmlrpc/wp/newTerm.php
+END
+uploadFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/25165/trunk/tests/phpunit/tests/xmlrpc/wp/uploadFile.php
+END
+getPost.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/25165/trunk/tests/phpunit/tests/xmlrpc/wp/getPost.php
+END
+getComments.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/25165/trunk/tests/phpunit/tests/xmlrpc/wp/getComments.php
+END
+getTaxonomies.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/25165/trunk/tests/phpunit/tests/xmlrpc/wp/getTaxonomies.php
+END
+getPostType.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/25165/trunk/tests/phpunit/tests/xmlrpc/wp/getPostType.php
+END

@@ -1,0 +1,52 @@
+10
+
+dir
+28062
+http://develop.svn.wordpress.org/trunk/tests/phpunit/data/themedir1
+http://develop.svn.wordpress.org
+
+
+
+2014-01-06T18:26:07.866931Z
+26910
+nacin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+602fd350-edb4-49c9-b593-d223f7449a82
+
+broken-theme
+dir
+
+theme1
+dir
+
+default
+dir
+
+page-templates
+dir
+
+subdir
+dir
+
+stylesheetonly
+dir
+
+sandbox
+dir
+
+theme1-dupe
+dir
+

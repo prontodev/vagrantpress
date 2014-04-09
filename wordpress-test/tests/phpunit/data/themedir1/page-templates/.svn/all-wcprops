@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/25165/trunk/tests/phpunit/data/themedir1/page-templates
+END
+template-top-level.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/25165/trunk/tests/phpunit/data/themedir1/page-templates/template-top-level.php
+END
+style.css
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/25165/trunk/tests/phpunit/data/themedir1/page-templates/style.css
+END
+template-header.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/25165/trunk/tests/phpunit/data/themedir1/page-templates/template-header.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/25165/trunk/tests/phpunit/data/themedir1/page-templates/index.php
+END

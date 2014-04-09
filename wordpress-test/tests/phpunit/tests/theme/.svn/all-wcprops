@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/27915/trunk/tests/phpunit/tests/theme
+END
+WPTheme.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/27915/trunk/tests/phpunit/tests/theme/WPTheme.php
+END
+support.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/27220/trunk/tests/phpunit/tests/theme/support.php
+END
+themeDir.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/25409/trunk/tests/phpunit/tests/theme/themeDir.php
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/27554/trunk/tests/phpunit/tests/xmlrpc
+END
+client.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/27552/trunk/tests/phpunit/tests/xmlrpc/client.php
+END
+basic.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/25165/trunk/tests/phpunit/tests/xmlrpc/basic.php
+END

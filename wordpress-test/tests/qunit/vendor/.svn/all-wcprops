@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/27847/trunk/tests/qunit/vendor
+END
+sinon-qunit.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/27847/trunk/tests/qunit/vendor/sinon-qunit.js
+END
+sinon.js
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/27847/trunk/tests/qunit/vendor/sinon.js
+END
+qunit.css
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/25166/trunk/tests/qunit/vendor/qunit.css
+END
+qunit.js
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/25166/trunk/tests/qunit/vendor/qunit.js
+END

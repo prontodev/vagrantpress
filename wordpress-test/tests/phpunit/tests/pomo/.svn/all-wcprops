@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/26500/trunk/tests/phpunit/tests/pomo
+END
+mo.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/25165/trunk/tests/phpunit/tests/pomo/mo.php
+END
+noopTranslations.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/25165/trunk/tests/phpunit/tests/pomo/noopTranslations.php
+END
+po.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/26500/trunk/tests/phpunit/tests/pomo/po.php
+END
+translationEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/25165/trunk/tests/phpunit/tests/pomo/translationEntry.php
+END
+translations.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/25165/trunk/tests/phpunit/tests/pomo/translations.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/27679/trunk/tests/qunit/editor/js/qunit
+END
+QUnit.LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/27155/trunk/tests/qunit/editor/js/qunit/QUnit.LICENSE
+END
+qunit.css
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/27679/trunk/tests/qunit/editor/js/qunit/qunit.css
+END
+qunit.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/27679/trunk/tests/qunit/editor/js/qunit/qunit.js
+END

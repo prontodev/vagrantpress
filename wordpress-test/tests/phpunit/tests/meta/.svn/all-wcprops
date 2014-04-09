@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/27689/trunk/tests/phpunit/tests/meta
+END
+slashes.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/25383/trunk/tests/phpunit/tests/meta/slashes.php
+END
+query.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/27689/trunk/tests/phpunit/tests/meta/query.php
+END

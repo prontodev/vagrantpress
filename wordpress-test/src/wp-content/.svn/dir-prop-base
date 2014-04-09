@@ -1,0 +1,23 @@
+K 10
+svn:ignore
+V 222
+blogs.dir
+languages
+mu-plugins
+plugins
+themes
+upgrade
+uploads
+advanced-cache.php
+blog-deleted.php
+blog-inactive.php
+blog-suspended.php
+db.php
+db-error.php
+debug.log
+install.php
+maintenance.php
+object-cache.php
+sunrise.php
+
+END

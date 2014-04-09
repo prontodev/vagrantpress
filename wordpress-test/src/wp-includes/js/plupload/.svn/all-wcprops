@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/27933/trunk/src/wp-includes/js/plupload
+END
+Moxie.swf
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/27316/trunk/src/wp-includes/js/plupload/Moxie.swf
+END
+wp-plupload.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/27933/trunk/src/wp-includes/js/plupload/wp-plupload.js
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/25001/trunk/src/wp-includes/js/plupload/license.txt
+END
+Moxie.xap
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/27340/trunk/src/wp-includes/js/plupload/Moxie.xap
+END
+handlers.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/27693/trunk/src/wp-includes/js/plupload/handlers.js
+END
+plupload.full.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/27316/trunk/src/wp-includes/js/plupload/plupload.full.min.js
+END

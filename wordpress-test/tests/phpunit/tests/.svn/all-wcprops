@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/27915/trunk/tests/phpunit/tests
+END
+auth.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/25709/trunk/tests/phpunit/tests/auth.php
+END
+url.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/25389/trunk/tests/phpunit/tests/url.php
+END
+cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/25165/trunk/tests/phpunit/tests/cache.php
+END
+query.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/27511/trunk/tests/phpunit/tests/query.php
+END
+filters.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/25377/trunk/tests/phpunit/tests/filters.php
+END
+iterators.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/26370/trunk/tests/phpunit/tests/iterators.php
+END
+adminbar.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/25165/trunk/tests/phpunit/tests/adminbar.php
+END
+taxonomy.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/25923/trunk/tests/phpunit/tests/taxonomy.php
+END
+file.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/25165/trunk/tests/phpunit/tests/file.php
+END
+rewrite.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/25659/trunk/tests/phpunit/tests/rewrite.php
+END
+mail.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/25381/trunk/tests/phpunit/tests/mail.php
+END
+compat.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/25165/trunk/tests/phpunit/tests/compat.php
+END
+post.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/27720/trunk/tests/phpunit/tests/post.php
+END
+canonical.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/26091/trunk/tests/phpunit/tests/canonical.php
+END
+shortcode.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/25165/trunk/tests/phpunit/tests/shortcode.php
+END
+link.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/27836/trunk/tests/phpunit/tests/link.php
+END
+actions.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/27294/trunk/tests/phpunit/tests/actions.php
+END
+cron.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/25368/trunk/tests/phpunit/tests/cron.php
+END
+comment.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/25165/trunk/tests/phpunit/tests/comment.php
+END
+theme.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/26858/trunk/tests/phpunit/tests/theme.php
+END
+kses.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/26431/trunk/tests/phpunit/tests/kses.php
+END
+widgets.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/25165/trunk/tests/phpunit/tests/widgets.php
+END
+term.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/27104/trunk/tests/phpunit/tests/term.php
+END
+functions.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/25313/trunk/tests/phpunit/tests/functions.php
+END
+l10n.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/25407/trunk/tests/phpunit/tests/l10n.php
+END
+user.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/25440/trunk/tests/phpunit/tests/user.php
+END
+ms.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/27718/trunk/tests/phpunit/tests/ms.php
+END
+media.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/27726/trunk/tests/phpunit/tests/media.php
+END
+basic.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/26940/trunk/tests/phpunit/tests/basic.php
+END
+upload.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/26552/trunk/tests/phpunit/tests/upload.php
+END
+db.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/27250/trunk/tests/phpunit/tests/db.php
+END
+meta.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/27562/trunk/tests/phpunit/tests/meta.php
+END
+dependencies.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/25711/trunk/tests/phpunit/tests/dependencies.php
+END

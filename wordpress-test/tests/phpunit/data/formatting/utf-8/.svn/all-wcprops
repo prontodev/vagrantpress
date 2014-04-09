@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/25165/trunk/tests/phpunit/data/formatting/utf-8
+END
+utf-8.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/25165/trunk/tests/phpunit/data/formatting/utf-8/utf-8.txt
+END
+entitize.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/25165/trunk/tests/phpunit/data/formatting/utf-8/entitize.py
+END
+urlencoded.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/25165/trunk/tests/phpunit/data/formatting/utf-8/urlencoded.txt
+END
+u-urlencoded.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/25165/trunk/tests/phpunit/data/formatting/utf-8/u-urlencoded.txt
+END
+urlencode.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/25165/trunk/tests/phpunit/data/formatting/utf-8/urlencode.py
+END
+u-urlencode.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/25165/trunk/tests/phpunit/data/formatting/utf-8/u-urlencode.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/25165/trunk/tests/phpunit/data/formatting/utf-8/README
+END
+entitized.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/25165/trunk/tests/phpunit/data/formatting/utf-8/entitized.txt
+END

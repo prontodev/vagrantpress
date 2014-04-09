@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/25165/trunk/tests/phpunit/data/themedir1/page-templates/subdir
+END
+template-sub-dir.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/25165/trunk/tests/phpunit/data/themedir1/page-templates/subdir/template-sub-dir.php
+END

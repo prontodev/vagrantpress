@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/25165/trunk/tests/phpunit/data/themedir1/stylesheetonly
+END
+style.css
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/25165/trunk/tests/phpunit/data/themedir1/stylesheetonly/style.css
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/27847/trunk/tests/qunit/wp-admin/js
+END
+customize-header.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/27847/trunk/tests/qunit/wp-admin/js/customize-header.js
+END
+password-strength-meter.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/26040/trunk/tests/qunit/wp-admin/js/password-strength-meter.js
+END

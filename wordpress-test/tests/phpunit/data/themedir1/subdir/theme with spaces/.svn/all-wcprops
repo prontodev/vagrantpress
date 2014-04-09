@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/25165/trunk/tests/phpunit/data/themedir1/subdir/theme%20with%20spaces
+END
+style.css
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/25165/trunk/tests/phpunit/data/themedir1/subdir/theme%20with%20spaces/style.css
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/25165/trunk/tests/phpunit/data/themedir1/subdir/theme%20with%20spaces/index.php
+END

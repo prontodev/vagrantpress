@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/26370/trunk/tests/phpunit/tests/dependencies
+END
+jquery.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/25785/trunk/tests/phpunit/tests/dependencies/jquery.php
+END
+styles.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/25786/trunk/tests/phpunit/tests/dependencies/styles.php
+END
+scripts.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/26370/trunk/tests/phpunit/tests/dependencies/scripts.php
+END

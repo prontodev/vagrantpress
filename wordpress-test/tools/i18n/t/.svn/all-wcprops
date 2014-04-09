@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/!svn/ver/25920/trunk/tools/i18n/t
+END
+ExtractTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/25920/trunk/tools/i18n/t/ExtractTest.php
+END
+NotGettextedTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/25254/trunk/tools/i18n/t/NotGettextedTest.php
+END

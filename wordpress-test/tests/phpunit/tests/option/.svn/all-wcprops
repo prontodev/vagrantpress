@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/27719/trunk/tests/phpunit/tests/option
+END
+blogOption.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/26252/trunk/tests/phpunit/tests/option/blogOption.php
+END
+siteTransient.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/25165/trunk/tests/phpunit/tests/option/siteTransient.php
+END
+siteOption.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/26305/trunk/tests/phpunit/tests/option/siteOption.php
+END
+slashes.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/25165/trunk/tests/phpunit/tests/option/slashes.php
+END
+transient.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/27719/trunk/tests/phpunit/tests/option/transient.php
+END
+option.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/25165/trunk/tests/phpunit/tests/option/option.php
+END

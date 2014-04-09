@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/25165/trunk/tests/phpunit/tests/filesystem
+END
+base.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/25165/trunk/tests/phpunit/tests/filesystem/base.php
+END
+find_folder.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/25165/trunk/tests/phpunit/tests/filesystem/find_folder.php
+END

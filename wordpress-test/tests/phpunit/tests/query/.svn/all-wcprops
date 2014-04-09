@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/27686/trunk/tests/phpunit/tests/query
+END
+date.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/25165/trunk/tests/phpunit/tests/query/date.php
+END
+results.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/27686/trunk/tests/phpunit/tests/query/results.php
+END
+taxQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/26875/trunk/tests/phpunit/tests/query/taxQuery.php
+END
+verboseRewriteRules.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/25165/trunk/tests/phpunit/tests/query/verboseRewriteRules.php
+END
+dateQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/25165/trunk/tests/phpunit/tests/query/dateQuery.php
+END
+search.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/27474/trunk/tests/phpunit/tests/query/search.php
+END
+conditionals.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/27187/trunk/tests/phpunit/tests/query/conditionals.php
+END

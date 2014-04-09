@@ -1,0 +1,80 @@
+10
+
+dir
+28062
+http://develop.svn.wordpress.org/trunk/tests/phpunit/data
+http://develop.svn.wordpress.org
+
+
+
+2014-03-03T19:30:58.137563Z
+27382
+markjaquith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+602fd350-edb4-49c9-b593-d223f7449a82
+
+export
+dir
+
+plugins
+dir
+
+themedir1
+dir
+
+images
+dir
+
+formatting
+dir
+
+pomo
+dir
+
+WPHTTP-testcase-redirection-script.php
+file
+
+
+
+
+2014-04-09T12:35:57.000000Z
+d9c7f2678f233088eda97eaa62f2552d
+2013-08-17T01:19:04.948320Z
+25046
+dd32
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4001
+

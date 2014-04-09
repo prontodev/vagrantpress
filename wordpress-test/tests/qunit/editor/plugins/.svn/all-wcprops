@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/27680/trunk/tests/qunit/editor/plugins
+END
+noneditable.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/27679/trunk/tests/qunit/editor/plugins/noneditable.js
+END
+spellchecker.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/27679/trunk/tests/qunit/editor/plugins/spellchecker.js
+END
+wordcount.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/27679/trunk/tests/qunit/editor/plugins/wordcount.js
+END
+legacyoutput.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/27679/trunk/tests/qunit/editor/plugins/legacyoutput.js
+END
+autosave.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/27679/trunk/tests/qunit/editor/plugins/autosave.js
+END
+table.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/27679/trunk/tests/qunit/editor/plugins/table.js
+END
+paste.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/27679/trunk/tests/qunit/editor/plugins/paste.js
+END
+jquery_plugin.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/27679/trunk/tests/qunit/editor/plugins/jquery_plugin.js
+END
+lists.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/27679/trunk/tests/qunit/editor/plugins/lists.js
+END
+fullpage.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/27679/trunk/tests/qunit/editor/plugins/fullpage.js
+END
+media.js
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/27679/trunk/tests/qunit/editor/plugins/media.js
+END
+searchreplace.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/27679/trunk/tests/qunit/editor/plugins/searchreplace.js
+END

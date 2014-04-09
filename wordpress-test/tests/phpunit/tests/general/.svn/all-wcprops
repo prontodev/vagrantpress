@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/27523/trunk/tests/phpunit/tests/general
+END
+template.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/27523/trunk/tests/phpunit/tests/general/template.php
+END
+archives.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/25165/trunk/tests/phpunit/tests/general/archives.php
+END

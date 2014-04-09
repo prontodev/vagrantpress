@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/27795/trunk/tests/phpunit/includes
+END
+trac.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/27168/trunk/tests/phpunit/includes/trac.php
+END
+testcase.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/27795/trunk/tests/phpunit/includes/testcase.php
+END
+testcase-ajax.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/26995/trunk/tests/phpunit/includes/testcase-ajax.php
+END
+bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/26871/trunk/tests/phpunit/includes/bootstrap.php
+END
+mock-image-editor.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/25380/trunk/tests/phpunit/includes/mock-image-editor.php
+END
+testcase-xmlrpc.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/25165/trunk/tests/phpunit/includes/testcase-xmlrpc.php
+END
+mock-fs.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/26246/trunk/tests/phpunit/includes/mock-fs.php
+END
+mock-mailer.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/27385/trunk/tests/phpunit/includes/mock-mailer.php
+END
+utils.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/26187/trunk/tests/phpunit/includes/utils.php
+END
+exceptions.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/25165/trunk/tests/phpunit/includes/exceptions.php
+END
+install.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/26944/trunk/tests/phpunit/includes/install.php
+END
+wp-profiler.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/25254/trunk/tests/phpunit/includes/wp-profiler.php
+END
+factory.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/27178/trunk/tests/phpunit/includes/factory.php
+END
+functions.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/25165/trunk/tests/phpunit/includes/functions.php
+END

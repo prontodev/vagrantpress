@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/27373/trunk/tests/phpunit/tests/import
+END
+base.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/25165/trunk/tests/phpunit/tests/import/base.php
+END
+import.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/27373/trunk/tests/phpunit/tests/import/import.php
+END
+parser.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/27349/trunk/tests/phpunit/tests/import/parser.php
+END
+postmeta.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/27349/trunk/tests/phpunit/tests/import/postmeta.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/27897/trunk/src/wp-includes/js/tinymce/plugins/media
+END
+plugin.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/27897/trunk/src/wp-includes/js/tinymce/plugins/media/plugin.js
+END
+plugin.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/27897/trunk/src/wp-includes/js/tinymce/plugins/media/plugin.min.js
+END
+moxieplayer.swf
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/26876/trunk/src/wp-includes/js/tinymce/plugins/media/moxieplayer.swf
+END

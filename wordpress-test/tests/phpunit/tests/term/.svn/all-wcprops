@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/27837/trunk/tests/phpunit/tests/term
+END
+getTerms.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/27837/trunk/tests/phpunit/tests/term/getTerms.php
+END
+slashes.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/25165/trunk/tests/phpunit/tests/term/slashes.php
+END
+cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/27163/trunk/tests/phpunit/tests/term/cache.php
+END
+query.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/25278/trunk/tests/phpunit/tests/term/query.php
+END

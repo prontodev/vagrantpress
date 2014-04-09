@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/28062/trunk/src/wp-includes/js/tinymce
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/25001/trunk/src/wp-includes/js/tinymce/license.txt
+END
+wp-tinymce.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/25001/trunk/src/wp-includes/js/tinymce/wp-tinymce.php
+END
+tinymce.js
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/27897/trunk/src/wp-includes/js/tinymce/tinymce.js
+END
+wp-mce-help.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/28032/trunk/src/wp-includes/js/tinymce/wp-mce-help.php
+END
+tiny_mce_popup.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/27603/trunk/src/wp-includes/js/tinymce/tiny_mce_popup.js
+END
+tinymce.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/27897/trunk/src/wp-includes/js/tinymce/tinymce.min.js
+END

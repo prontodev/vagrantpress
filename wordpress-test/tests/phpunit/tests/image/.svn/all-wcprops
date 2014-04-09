@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/27847/trunk/tests/phpunit/tests/image
+END
+base.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/27794/trunk/tests/phpunit/tests/image/base.php
+END
+editor_imagick.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/27794/trunk/tests/phpunit/tests/image/editor_imagick.php
+END
+size.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/27358/trunk/tests/phpunit/tests/image/size.php
+END
+resize_gd.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/25165/trunk/tests/phpunit/tests/image/resize_gd.php
+END
+editor_gd.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/27794/trunk/tests/phpunit/tests/image/editor_gd.php
+END
+resize.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/25165/trunk/tests/phpunit/tests/image/resize.php
+END
+intermediate_size.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/25507/trunk/tests/phpunit/tests/image/intermediate_size.php
+END
+resize_imagick.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/25165/trunk/tests/phpunit/tests/image/resize_imagick.php
+END
+editor.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/25165/trunk/tests/phpunit/tests/image/editor.php
+END
+meta.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/25165/trunk/tests/phpunit/tests/image/meta.php
+END
+dimensions.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/27472/trunk/tests/phpunit/tests/image/dimensions.php
+END
+functions.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/26705/trunk/tests/phpunit/tests/image/functions.php
+END
+header.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/27847/trunk/tests/phpunit/tests/image/header.php
+END

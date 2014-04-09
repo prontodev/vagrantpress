@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/25165/trunk/tests/phpunit/tests/xmlrpc/mw
+END
+getRecentPosts.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/25165/trunk/tests/phpunit/tests/xmlrpc/mw/getRecentPosts.php
+END
+editPost.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/25165/trunk/tests/phpunit/tests/xmlrpc/mw/editPost.php
+END
+newPost.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/25165/trunk/tests/phpunit/tests/xmlrpc/mw/newPost.php
+END
+getPost.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/25165/trunk/tests/phpunit/tests/xmlrpc/mw/getPost.php
+END

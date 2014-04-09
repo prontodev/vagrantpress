@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/27915/trunk/tests/phpunit
+END
+wp-mail-real-test.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/25165/trunk/tests/phpunit/wp-mail-real-test.php
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/25199/trunk/tests/phpunit/README.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/25165/trunk/tests/phpunit/build.xml
+END
+multisite.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/25294/trunk/tests/phpunit/multisite.xml
+END

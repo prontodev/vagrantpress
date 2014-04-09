@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 21
+/!svn/ver/28062/trunk
+END
+.jshintrc
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/!svn/ver/26136/trunk/.jshintrc
+END
+package.json
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/!svn/ver/27848/trunk/package.json
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/!svn/ver/27298/trunk/.gitignore
+END
+.travis.yml
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/!svn/ver/27267/trunk/.travis.yml
+END
+phpunit.xml.dist
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/25165/trunk/phpunit.xml.dist
+END
+.editorconfig
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/27198/trunk/.editorconfig
+END
+Gruntfile.js
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/!svn/ver/27847/trunk/Gruntfile.js
+END
+wp-config-sample.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/25173/trunk/wp-config-sample.php
+END
+wp-tests-config-sample.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/25571/trunk/wp-tests-config-sample.php
+END

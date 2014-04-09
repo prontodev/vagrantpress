@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/25165/trunk/tests/phpunit/tests/xmlrpc/mt
+END
+getRecentPostTitles.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/25165/trunk/tests/phpunit/tests/xmlrpc/mt/getRecentPostTitles.php
+END

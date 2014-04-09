@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/25165/trunk/tests/phpunit/data/export
+END
+crazy-cdata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/25165/trunk/tests/phpunit/data/export/crazy-cdata.xml
+END
+invalid-version-tag.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/25165/trunk/tests/phpunit/data/export/invalid-version-tag.xml
+END
+crazy-cdata-escaped.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/25165/trunk/tests/phpunit/data/export/crazy-cdata-escaped.xml
+END
+missing-version-tag.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/25165/trunk/tests/phpunit/data/export/missing-version-tag.xml
+END
+test-serialized-postmeta-with-cdata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/25165/trunk/tests/phpunit/data/export/test-serialized-postmeta-with-cdata.xml
+END
+malformed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/25165/trunk/tests/phpunit/data/export/malformed.xml
+END
+test-serialized-postmeta-no-cdata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/25165/trunk/tests/phpunit/data/export/test-serialized-postmeta-no-cdata.xml
+END
+small-export.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/25165/trunk/tests/phpunit/data/export/small-export.xml
+END
+valid-wxr-1.0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/25165/trunk/tests/phpunit/data/export/valid-wxr-1.0.xml
+END
+valid-wxr-1.1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/25165/trunk/tests/phpunit/data/export/valid-wxr-1.1.xml
+END
+test-utw-post-meta-import.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/25165/trunk/tests/phpunit/data/export/test-utw-post-meta-import.xml
+END
