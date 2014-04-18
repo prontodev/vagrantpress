@@ -17,6 +17,13 @@ Do the following steps on your local machine under your project directory, e.g.,
 7. Go back to the root directory, e.g., `~/Projects/pronto_vagrantpress`
 8. Run `vagrant up`. It takes time for only the first time running this command.
 
+WordPress Configuration for Bypronto
+------------------------------------
+```
+DB_NAME: bypronto
+DB_USER: root
+DB_PASSWORD = ''
+```
 
 Useful Links
 ------------
