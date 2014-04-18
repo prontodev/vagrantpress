@@ -13,12 +13,11 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
     vb.customize ["modifyvm", :id, "--memory", "1024"]
   end
 
+  #config.vm.provision :shell, :path => "puppet/bootstrap.sh"
   config.vm.provision :puppet do |puppet|
     puppet.manifests_path = "puppet/manifests"
     puppet.manifest_file  = "default.pp"
     puppet.module_path    = "puppet/modules"
     puppet.options        = "--verbose --debug"
   end
-
-  #config.vm.provision :shell, :path => "setup/bootstrap_local.sh"
 end
