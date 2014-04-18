@@ -15,8 +15,7 @@ Do the following steps on your local machine under your project directory, e.g.,
   * If you see the `develop` branch, run `git checkout develop`.
   * If not, run `git checkout -b develop origin/develop`.
 7. Go back to the root directory, e.g., `~/Projects/pronto_vagrantpress`.
-9. Run `vagrant box add pronto_vagrantpress <box URL>`.
-10. Run `vagrant up`. It takes time for only the first time running this command.
+8. Run `vagrant up`. It takes time for only the first time running this command.
 
 
 Useful Links
