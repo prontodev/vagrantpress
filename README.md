@@ -19,10 +19,11 @@ Do the following steps on your local machine under your project directory, e.g.,
 
 WordPress Configuration for Bypronto
 ------------------------------------
-```
-DB_NAME: bypronto
-DB_USER: root
-DB_PASSWORD = ''
+```php
+define('DB_NAME', 'bypronto');
+define('DB_USER', 'root');
+define('DB_PASSWORD', '');
+define('DB_HOST', 'localhost');
 ```
 
 Useful Links
