@@ -74,12 +74,12 @@ error_page 504  /504-error.html;
 
 location ^~ /blogs.dir {
     internal;
-    alias /var/www/bypronto/wp-content/blogs.dir ;
+    alias /vagrant/wordpress-test/bypronto/wp-content/blogs.dir ;
 #        access_log off; log_not_found off;      expires max;
 }
 
 location ^~ /wp-content/uploads/ {
-    alias /var/www/bypronto/wp-content/uploads/;
+    alias /vagrant/wordpress-test/bypronto/wp-content/uploads/;
 #               expires 1d;
 #                add_header Cache-Control public;
     access_log off; log_not_found off;
@@ -97,7 +97,7 @@ location ^~ /wp-content/themes/ {
 }
 
 location ^~ /wp-content/themes/core/js/ {
-    alias /var/www/bypronto/wp-content/themes/core/js/;
+    alias /vagrant/wordpress-test/bypronto/wp-content/themes/core/js/;
 #               expires 1d;
 #                add_header Cache-Control public;
 
