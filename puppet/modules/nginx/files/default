@@ -11,7 +11,7 @@ server {
     client_max_body_size 15m;
     client_body_buffer_size 128k;
 
-    # WordPress needs to be in the webroot of /var/www/ in this case
+    # WordPress needs to be in the webroot of /vagrant/wordpress-test/ in this case
     root /vagrant/wordpress-test/bypronto/;
     access_log /var/log/nginx/bypronto_access.log;
     error_log /var/log/nginx/bypronto_error.log;
@@ -25,32 +25,32 @@ server {
     # deliver a static error
     error_page 403  /403-error.html;
     location = /403-error.html {
-        root /var/www/Server-Error-Pages;
+        root /vagrant/wordpress-test/Server-Error-Pages;
     }
 
     error_page 404  /404-error.html;
     location = /404-error.html {
-        root /var/www/Server-Error-Pages;
+        root /vagrant/wordpress-test/Server-Error-Pages;
     }
     error_page 410  /Maintenance-Page.html;
     location = /Maintenance-Page.html {
-        root /var/www/Server-Error-Pages;
+        root /vagrant/wordpress-test/Server-Error-Pages;
     }
     error_page 500  /500-error.html;
     location = /500-error.html {
-        root /var/www/Server-Error-Pages;
+        root /vagrant/wordpress-test/Server-Error-Pages;
     }
     error_page 502  /502-error.html;
     location = /502-error.html {
-        root /var/www/Server-Error-Pages;
+        root /vagrant/wordpress-test/Server-Error-Pages;
     }
     error_page 503  /503-error.html;
     location = /503-error.html {
-        root /var/www/Server-Error-Pages;
+        root /vagrant/wordpress-test/Server-Error-Pages;
     }
 error_page 504  /504-error.html;
     location = /504-error.html {
-        root /var/www/Server-Error-Pages;
+        root /vagrant/wordpress-test/Server-Error-Pages;
     }
 
     # Deliver 404 instead of 403 "Forbidden"
